@@ -1,4 +1,3 @@
-# README# 
 Hola, I’m Adam (aka *El-Hijo-Prodigo*)  
 
  Currently learning through the **Cumbria CODE** course  
