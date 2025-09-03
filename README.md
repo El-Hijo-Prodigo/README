@@ -1,6 +1,6 @@
 ## ADAM T.
 
-Hola, I’m Adam (aka *El-Hijo-Prodigo*)  
+ I’m Adam (aka *El-Hijo-Prodigo*),
 
  Currently learning through the **Cumbria CODE** course  
  Playing with **Python**, **Linux tools**, and **data wrangling**  
@@ -29,4 +29,4 @@ I believe in open knowledge, collaboration, and tech that empowers people.
 
 ---
 
-My username *El-Hijo-Prodigo* means *The Prodigal Son* — a nod to coming back around to coding after time away. 
+My username *El-Hijo-Prodigo* means *The Prodigal Son* — a nod to coming back to coding after time away!
