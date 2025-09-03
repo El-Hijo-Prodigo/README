@@ -1,3 +1,5 @@
+## ADAM T.
+
 Hola, I’m Adam (aka *El-Hijo-Prodigo*)  
 
  Currently learning through the **Cumbria CODE** course  
@@ -6,7 +8,7 @@ Hola, I’m Adam (aka *El-Hijo-Prodigo*)
 
 ---
 
-## 🔧 Tech so far  
+## Tech so far  
 - Python basics & scripting  
 - Linux CLI & system tools  
 - Git & GitHub for version control  
